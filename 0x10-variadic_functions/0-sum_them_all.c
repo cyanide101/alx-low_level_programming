@@ -23,32 +23,3 @@ int sum_them_all(const unsigned int n, ...)
 
 	return (sum);
 }
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-"0-sum_them_all.c" [New File]                                 0,0-1         All
-
